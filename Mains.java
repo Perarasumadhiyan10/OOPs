@@ -22,7 +22,6 @@ import java.util.Scanner;
                     case 4->handle.updateById();
                     case 5->{
                         System.out.println("Exiting....");
-                        return;
                     }
                 }
             }
